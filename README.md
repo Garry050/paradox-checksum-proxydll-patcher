@@ -5,6 +5,8 @@ It gives you ability to use mods, that change checksum, and still get achievemen
 Patcher DON'T give you ability to use console or use achievement-disabler game rules and earn achievements.  
 (from https://github.com/IlliaYalovoi/universal-checksum-patcher/blob/main/README.md)
 
+![Preview](https://i.imgur.com/6oD4fv8.png)
+
 # IMPORTANT
 Patcher modifying checksum memory directly by proxy dll. so you don't neeed patch game.exe every update until paradox update those patterns.
 
